@@ -1,0 +1,21 @@
+body{
+  background: grey;
+  text-align: center;
+}
+img{
+  width: 20%;
+}
+.cardhi{
+  background: pink;
+  width: 20%;
+  border-radius: 2em;
+  text-align: center;
+}
+#card{
+  justify-content: space-around;
+  display: flex;
+  margin: 2%
+}
+.cardhi:hover{
+  box-shadow: 0 7px 9px 11px indigo;
+}

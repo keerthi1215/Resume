@@ -1,0 +1,33 @@
+.main
+{
+  background: white;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.left{
+  background:pink;
+  width: 20%;
+}
+.left1 img{
+  width: 79%;
+}
+
+.right{
+  width: 79%;
+  background: lightblue;
+}
+
+
+
+
+
+@media only screen and (min-device-width:460px) and (max-device-width:750px){
+.left1{
+  width:100%;
+  flex-wrap: ;
+}
+.right{
+  width: 100%;
+}
+}

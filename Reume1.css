@@ -22,7 +22,7 @@
 
 
 
-@media only screen and (min-device-width:460px) and (max-device-width:750px){
+@media only screen and (min-device-width:450px) and (max-device-width:780px){
 .left1{
   width:100%;
   flex-wrap: ;
